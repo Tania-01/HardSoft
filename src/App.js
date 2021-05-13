@@ -14,6 +14,7 @@ import rectangle from './Rectangle.png';
 function App() {
   return (
     <div>
+      
 <div className="navbar">
   <div className="nav-right">
   <img className="logo" src={logo}></img>
