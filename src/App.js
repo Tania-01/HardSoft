@@ -14,7 +14,7 @@ import rectangle from './Rectangle.png';
 function App() {
   return (
     <div>
-      
+
 <div className="navbar">
   <div className="nav-right">
   <img className="logo" src={logo}></img>
@@ -22,14 +22,14 @@ function App() {
   <a>Як це працює</a>
   <a>Про нас</a>
   <div class="dropdown">
-        <button class="dropbtn">My Profile
+        <button class="dropbtn">Послуги
             <i class="fa fa-caret-down"></i>
         </button>
         <div class="dropdown-content">
-            <a href="#">Patronus</a>
-            <a href="#">Boggard</a>
-            <a href="#">My Spells</a>
-            <a href="#">Hause News</a>
+            <a href="#">послги</a>
+            <a href="#">послуги</a>
+            <a href="#">послуги</a>
+            <a href="#">послуги</a>
         </div>
     </div>
     <a>Індустріальна експертиза</a>
